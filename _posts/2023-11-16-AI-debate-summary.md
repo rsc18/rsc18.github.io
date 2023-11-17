@@ -17,4 +17,4 @@ Establishing cultural norms and ethical standards is equally crucial in navigati
 
 In conclusion, the impact of AI on the market is multifaceted. While it holds tremendous potential to reshape industries, drive economic growth, and create new opportunities, the risks and challenges associated with its adoption cannot be ignored. Achieving a balance through responsible development, ethical considerations, and effective regulation is imperative to harnessing AI's positive contributions to the market. As stakeholders navigate this evolving landscape, the collective efforts of policymakers, businesses, and society at large will determine whether AI becomes a force for positive transformation or a source of unintended consequences.
 
-* This article is from debate organized by Florida State University titled: Artificial Intelligence and The Economy: How will AI Impact the Marketplace? I have used ChatGPT to polish my writing.*
+*This article is from debate organized by Florida State University titled: Artificial Intelligence and The Economy: How will AI Impact the Marketplace? I have used ChatGPT to polish my writing.*
