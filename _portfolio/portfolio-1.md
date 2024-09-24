@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SimNet: Accurate and High-Performance Computer Architecture Simulation using Machine Learning"
+excerpt: "<br/> While discrete-event simulators are essential tools for architecture research, design, and development, their practicality is limited by an extremely long time-to-solution for realistic applications under investigation. This work describes a concerted effort, where machine learning (ML) is used to accelerate discrete-event simulation. First, an ML-based instruction latency prediction framework that accounts for both static instruction properties and dynamic processor states is constructed. Then, a GPU-accelerated parallel simulator is implemented based on the proposed instruction latency predictor, and its simulation accuracy and throughput are validated and evaluated against a state-of-the-art simulator. Leveraging modern GPUs, the ML-based simulator outperforms traditional simulators significantly.
+<br />
+
+[Paper](https://arxiv.org/abs/2105.05821)
+[Presentation video](https://www.youtube.com/watch?v=w0w3vhoQ2-0) <br />
+
+<img src='/images/100M_scalability.png'>
+"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

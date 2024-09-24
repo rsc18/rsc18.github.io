@@ -11,53 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering, Tribhuvan University, 2012-2017
+* Ph.D in Computer Engineering, Stevens Institute of Technology, 2019- 2023(expected)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2020: Research Internship
+  * Brookhaven National Labrotrary 
+  * Duties included: Accelerating machine learning model for hardware simulation. Accelerated model inference upto 78x and made the simulator scalable. 
+  * Supervisor: Dr. Lingda Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Internship
+  * Lawerence Berkeley National Labrotrary 
+  * Duties included: Worked on scalable triangle counting on GPUs. Awarded graphchallenge championship in IEEE HPEC 2019. 
+  * Supervisor: Dr. Xiaoye Sherry Li
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019- Present: Research Assistant
+  * Stevens Institute of Technology
+  * Duties included: Machine Learning, Graph Computing, Algorithms and HPC with GPUs
+  * Supervisor: Professor Hang Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C/C++, CUDA, Python
+* Designing machine learning model, optimized application for specific hardware
+* Algorithms, Hardware-Software co-design
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Paper Review
+======  
+  1. Conference on Networking, Architecture, and Storage (NAS 2019)
+  2. IEEE Big Data
+  3. TPDS
   
 Service and leadership
 ======

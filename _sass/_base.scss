@@ -9,10 +9,11 @@ html {
 
 body {
   margin: 0;
-  padding: $masthead-height 0 0;
+  padding: 0;
   padding-bottom: 9em;
   color: $text-color;
-  font-family: $global-font-family;
+   font-family: serif;
+//   font-family: $global-font-family;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -313,3 +314,44 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.bullets {
+   list-style-type: square;
+   display: flex;
+   flex-wrap: wrap;
+}
+.date {
+   color: red;
+}
+// .grid-container {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* set the minimum and maximum width for each column */
+// }
+
+// .text-paragraph {
+//   width: 350px;
+//   padding: 10px;
+//    border:none;
+// //   background-color: #f9f9f9;
+// //   font-size: 14px;
+// }
+
+// table, th, td {
+//   border-collapse: collapse; /* remove lines from the table */
+//   border:none;
+// }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:hover {background-color: FloralWhite;} 
+
+
+// td ul li {
+//    border:none;
+//    width: 80px;
+//    padding: 5px;
+//    list-style-type: square; /* bullet points */
+// }
+
+// .news-table {
+// border:none; 
+// }
