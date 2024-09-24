@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santosh Pandey"
+title                    : "Ram Sharan Chaulagain"
 title_separator          : "-"
-name                     : &name "Santosh Pandey"
+name                     : &name "Ram Sharan Chaulagain"
 description              : &description "Ph.D Student"
-url                      : https://concept-inversion.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rsc18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Santosh Pandey"
+  name             : "Ram Sharan Chaulagain"
   avatar           : "headshot.jpg"
-  bio              : "Computer Engineering PhD student"
-  location         : "New Brunswick, NJ, USA"
-  employer         : "Rutgers University"
+  bio              : "Computer Science PhD student"
+  location         : "Tallahassee, FL, USA"
+  employer         : "Florida State University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4jtGttIAAAAJ&hl=en"
-  email            : "santosh.pandey@rutgers.edu "
-  researchgate     : "https://www.researchgate.net/profile/Santosh_Pandey18"
+  googlescholar    : "https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en"
+  email            : "rsc18@fsu.edu "
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "concept-inversion"
+  github           : "rsc18"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "santoshpandey1995"
+  linkedin         : "chaulagainram"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults

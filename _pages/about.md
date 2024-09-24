@@ -13,15 +13,15 @@ redirect_from:
   <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="160"/>
 </div>
 
-I am a PhD student in Computer Engineering at Rutgers University. My research interests includes GPU accelerated high performance computing, computer architecture, machine learning, and large graph analytics. I am honored to be advised by Professor [Hang Liu](https://asherliu.github.io/). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
-You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=4jtGttIAAAAJ) for my most recent publications.
+I am a PhD student in Computer Science at Florida State University. My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
+You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en) for my most recent publications.
 
 The theme of my research is **system for machine learning and machine learning for system**.  
 
-I enjoy hiking, playing basketball and football during my free time.   
+I enjoy playing blind chess during my free time.   
 
 
-[[CV]](/files/cv.pdf) [[google scholar]](https://scholar.google.com/citations?user=4jtGttIAAAAJ)
+[[CV]](/files/Ram-CV.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
 
 
 
@@ -42,33 +42,21 @@ I enjoy hiking, playing basketball and football during my free time.
 
 <table class="news-table" cellpadding=0 cellspacing=0 padding-top=2>
 <tr>
-    <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
-    <td class="explanation"> TAO: Rethinking DL-based microarchitecture simulation is accepted at SIGMETRIC'24 journal (Acceptance rate ~11%).  A great collaboration with <a href="https://www.ayazdan.com/">Amir</a> from Google DeepMind. </td>
+    <td> <ul><li><span class="date">[Sept. 2024]</span></li></ul> </td>
+    <td class="explanation"> <a href="">Poster</a> Accepted in SC-24 </td>
   </tr>
 <tr>
-    <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
-    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.1145/3652604">TEA+</a>, led by Dr. Chengying Huan, accepted at TACO'24 journal. </td>
-  </tr>  
+    <td> <ul><li><span class="date">[May. 2024]</span></li></ul> </td>
+    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656602">Paper</a> published in ICS-24 </td>
+  </tr>
 <tr>
-    <td> <ul><li><span class="date">[Jan. 2023]</span></li></ul> </td>
-    <td class="explanation"> Transferred to the Rutgers University. </td>
+    <td> <ul><li><span class="date">[Apr. 2024]</span></li></ul> </td>
+    <td class="explanation"> Honored to receive the Outstanding Research Assistant Award for 2023-2024 from the Computer Science Department, FSU </td>
   </tr>
-  <tr>
-    <td> <ul><li><span class="date">[Oct. 2022]</span></li></ul> </td>
-    <td class="explanation"> Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference. </td>
+<tr>
+    <td> <ul><li><span class="date">[Oct. 2020]</span></li></ul> </td>
+    <td class="explanation"> <a href="https://par.nsf.gov/servlets/purl/10231745">Poster</a> Accepted in SC-20 </td>
   </tr>
-  <tr>
-    <td> <ul><li><span class="date">[Aug. 2022]</span></li></ul> </td>
-    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571990">One paper</a> accepted at SC'22 conference on accelerating ML-based micro-architecture simulation. </td>
-  </tr>
-  <tr>
-    <td> <ul><li><span class="date">[Sep. 2022]</span></li></ul> </td>
-    <td class="explanation">  <a href="https://dl.acm.org/doi/abs/10.1145/3552326.3567491">TEA</a> accepted at EuroSys'23 conference on temporal graph random walk. </td>
-  </tr>
-<!--   <tr>
-    <td> <ul><li><span class="date">[Jul. 2022]</span></li></ul> </td>
-    <td class="explanation"> One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab. </td>
-  </tr> -->
 </table>
 
 

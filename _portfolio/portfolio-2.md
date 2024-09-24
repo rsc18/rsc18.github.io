@@ -1,12 +1,22 @@
 ---
-title: "A Framework for Graph Sampling and Random Walk on GPUs"
-excerpt: "<br/> Many applications require to learn, mine, analyze and visualize large-scale graphs. These graphs are often too large to be addressed efficiently using conventional graph processing technologies. Many applications have requirements to analyze, transform, visualize and learn large scale graphs. These graphs are often too large to be addressed efficiently using conventional graph processing technologies. Recent literatures convey that graph sampling/random walk could be an efficient solution. In this paper, we propose, to the best of our knowledge, the first GPU-based framework for graph sampling/random walk. First, our framework provides a generic API which allows users to implement a wide range of sampling and random walk algorithms with ease. Second, offloading this framework on GPU, we introduce warp-centric parallel selection, and two optimizations for collision migration. Third, towards supporting graphs that exceed GPU memory capacity, we introduce efficient data transfer optimizations for out-of-memory sampling, such as workload-aware scheduling and batched multi-instance sampling. In its entirety, our framework constantly outperforms the state-of-the-art projects. First, our framework provides a generic API which allows users to implement a wide range of sampling and random walk algorithms with ease. Second, offloading this framework on GPU, we introduce warp-centric parallel selection, and two novel optimizations for collision migration. Third, towards supporting graphs that exceed the GPU memory capacity, we introduce efficient data transfer optimizations for out-of-memory and multi-GPU sampling, such as workload-aware scheduling and batched multi-instance sampling. Taken together, our framework constantly outperforms the state of the art projects in addition to the capability of supporting a wide range of sampling and random walk algorithms.
-
+title: "Achieving the performance of global adaptive routing using local information on dragonfly through deep learning"
+excerpt: "<br/> The Universal Globally Adaptive Load-balance
+Routing (UGAL) with global information, referred as UGALG, represents an ideal form of adaptive routing on Dragonfly.
+However, UGAL-G is impractical to implement since the global
+information cannot be maintained accurately. Practical adaptive
+routing schemes, such as UGAL with local information (UGALL), performs noticeably worse than UGAL-G. In this work, we
+investigate a machine learning approach for routing on Dragonfly.
+Specifically, we develop a machine learning based routing scheme,
+called UGAL-ML, that is capable of making routing decisions
+like UGAL-G based only on the information local to each router.
+Our preliminary evaluation indicates that UGAL-ML can achieve
+comparable performance to UGAL-G for some traffic patterns.
 <br />
-[Paper](https://arxiv.org/abs/2009.09103)
-[Source code](https://github.com/concept-inversion/C-SAW)
-[Presentation-video](https://www.youtube.com/watch?v=HuFPbHxHDX8) <br />
 
- <img src='/images/csaw.png'>"
+[Paper](https://par.nsf.gov/servlets/purl/10231745)
+<br />
+
+<img src='/images/ugal-ml.png'>
+"
 collection: portfolio
 ---

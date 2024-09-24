@@ -1,12 +1,12 @@
 ---
-title: "SimNet: Accurate and High-Performance Computer Architecture Simulation using Machine Learning"
-excerpt: "<br/> While discrete-event simulators are essential tools for architecture research, design, and development, their practicality is limited by an extremely long time-to-solution for realistic applications under investigation. This work describes a concerted effort, where machine learning (ML) is used to accelerate discrete-event simulation. First, an ML-based instruction latency prediction framework that accounts for both static instruction properties and dynamic processor states is constructed. Then, a GPU-accelerated parallel simulator is implemented based on the proposed instruction latency predictor, and its simulation accuracy and throughput are validated and evaluated against a state-of-the-art simulator. Leveraging modern GPUs, the ML-based simulator outperforms traditional simulators significantly.
+title: "Enhanced UGAL Routing Schemes for Dragonfly Networks"
+excerpt: "<br/> The Dragonfly networks have been adopted in the current supercomputers, and will be deployed in future generation supercomputers and data centers. Effective routing on Dragonfly is challenging. Universal Globally Adaptive Load-balanced routing (UGAL) is the state-of-the-art routing algorithm for Dragonfly. For each packet, UGAL selects either a minimal path or a non-minimal path based on their estimated latencies. Practical UGAL makes routing decisions with local information, deriving the estimated latency for each path from the local queue occupancy and path hop count information. In this work, we develop techniques to improve the accuracy of the latency estimation for UGAL with local information, which results in more effective routing decisions. In particular, our schemes are able to proactively mitigate the potential network congestion with imbalanced network traffic. Extensive simulation experiments using synthetic traffic patterns and application workloads demonstrate that our enhanced UGAL schemes significantly improve the routing performance for many common traffic conditions.
 <br />
 
-[Paper](https://arxiv.org/abs/2105.05821)
-[Presentation video](https://www.youtube.com/watch?v=w0w3vhoQ2-0) <br />
+[Paper](https://dl.acm.org/doi/abs/10.1145/3650200.3656602)
+<br />
 
-<img src='/images/100M_scalability.png'>
+<img src='/images/motivation-figure.png'>
 "
 collection: portfolio
 ---
