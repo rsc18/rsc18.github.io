@@ -69,6 +69,6 @@ I enjoy playing blind chess during my free time.
 
 <p align="center">Github profile views</p>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
+	<img src="https://komarev.com/ghpvc/?username=rsc18&label=Profile%20views&color=0e75b6&style=plastic" alt="rsc18" /> 
 </p>
 
