@@ -16,9 +16,9 @@ redirect_from:
 I am a PhD student in Computer Science at Florida State University. My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en) for my most recent publications.
 
-The theme of my research is **system for machine learning and machine learning for system**.  
+<!-- The theme of my research is **system for machine learning and machine learning for system**.   -->
 
-I enjoy playing blind chess during my free time.   
+I enjoy Soccer, Basketball, Chess, and Traveling during my free time.   
 
 
 [[CV]](/files/Ram-CV.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
