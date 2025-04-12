@@ -13,15 +13,26 @@ redirect_from:
   <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="160"/>
 </div>
 
-I am a PhD student in Computer Science at Florida State University. My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
+I'm a PhD student in Computer Science at Florida State University, where my research focuses on high-speed interconnects for HPC and AI/ML workloads. 
+My work explores how software-defined networking (SDN) and local router intelligence can improve routing efficiency and mitigate congestion in large-scale systems.
+My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en) for my most recent publications.
+
+Key highlights of my research include:
+✅ Developing SDN-based adaptive routing strategies for Dragonfly topologies
+✅ Enhancing UGAL routing with accurate local latency estimation
+✅ Applying deep learning for congestion-aware routing, matching and outperforming traditional adaptive schemes
+I’ve contributed to simulators like Booksim, CODES, and SST, and my work has been published at venues like SC, ICS, and CCGRID.
+
+🛠️ Tools & Tech: Python, C/C++, MPI, CUDA, OpenMP, PyTorch, TensorFlow, SDN, SST, CODES, Booksim
+I’m excited about pushing the limits of interconnect design for the next generation of AI and HPC systems. 
 
 <!-- The theme of my research is **system for machine learning and machine learning for system**.   -->
 
 I enjoy Soccer, Basketball, Chess, and Traveling during my free time.   
 
 
-[[CV]](/files/Ram-CV.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
+[[CV]](/files/Ram-Resume.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
 
 
 
@@ -29,11 +40,11 @@ I enjoy Soccer, Basketball, Chess, and Traveling during my free time.
 ---
 <table class="news-table" cellpadding=0 cellspacing=0 padding-top=2>
   <tr>
-    <td><ul><li><span class="date">[April 2024]</span></li></ul></td>
+    <td><ul><li><span class="date">[April 2025]</span></li></ul></td>
     <td class="explanation">Honored to receive the <a href="">Best Research Presentation Award</a> at the CS Expo organized by the Florida State University Department of Computer Science.</td>
   </tr>
   <tr>
-    <td><ul><li><span class="date">[Feb. 2024]</span></li></ul></td>
+    <td><ul><li><span class="date">[Feb. 2025]</span></li></ul></td>
     <td class="explanation"><a href="">Paper</a> Accepted in CCGRID-25: Exploiting Software-Defined Networking Technology for Improving UGAL Routing in Dragonfly Networks</td>
   </tr>
   <tr>
