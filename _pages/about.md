@@ -36,7 +36,7 @@ I’m excited about pushing the limits of interconnect design for the next gener
 I enjoy Soccer, Basketball, Chess, and Traveling during my free time.   
 
 
-[[CV]](/files/Ram-Resume.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
+[[CV]](/files/Ram_Resume.pdf) [[google scholar]](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en)
 
 
 
