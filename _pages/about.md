@@ -19,9 +19,13 @@ My research interests includes Network Interconnect, Adaptive Routing, Communica
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en) for my most recent publications.
 
 Key highlights of my research include:
+
 ✅ Developing SDN-based adaptive routing strategies for Dragonfly topologies
+
 ✅ Enhancing UGAL routing with accurate local latency estimation
+
 ✅ Applying deep learning for congestion-aware routing, matching and outperforming traditional adaptive schemes
+
 I’ve contributed to simulators like Booksim, CODES, and SST, and my work has been published at venues like SC, ICS, and CCGRID.
 
 🛠️ Tools & Tech: Python, C/C++, MPI, CUDA, OpenMP, PyTorch, TensorFlow, SDN, SST, CODES, Booksim
