@@ -27,23 +27,30 @@ I enjoy Soccer, Basketball, Chess, and Traveling during my free time.
 
 ### Recent News!!!
 ---
-
 <table class="news-table" cellpadding=0 cellspacing=0 padding-top=2>
-<tr>
-    <td> <ul><li><span class="date">[Sept. 2024]</span></li></ul> </td>
-    <td class="explanation"> <a href="">Poster</a> Accepted in SC-24 </td>
+  <tr>
+    <td><ul><li><span class="date">[April 2024]</span></li></ul></td>
+    <td class="explanation">Honored to receive the <a href="">Best Research Presentation Award</a> at the CS Expo organized by the Florida State University Department of Computer Science.</td>
   </tr>
-<tr>
-    <td> <ul><li><span class="date">[May. 2024]</span></li></ul> </td>
-    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656602">Paper</a> published in ICS-24 </td>
+  <tr>
+    <td><ul><li><span class="date">[Feb. 2024]</span></li></ul></td>
+    <td class="explanation"><a href="">Paper</a> Accepted in CCGRID-25: Exploiting Software-Defined Networking Technology for Improving UGAL Routing in Dragonfly Networks</td>
   </tr>
-<tr>
-    <td> <ul><li><span class="date">[Apr. 2024]</span></li></ul> </td>
-    <td class="explanation"> Honored to receive the Outstanding Research Assistant Award for 2023-2024 from the Computer Science Department, FSU </td>
+  <tr>
+    <td><ul><li><span class="date">[Sept. 2024]</span></li></ul></td>
+    <td class="explanation"><a href="">Poster</a> Accepted in SC-24: Exploring Software-Defined Networking for Routing in Dragonfly Networks</td>
   </tr>
-<tr>
-    <td> <ul><li><span class="date">[Oct. 2020]</span></li></ul> </td>
-    <td class="explanation"> <a href="https://par.nsf.gov/servlets/purl/10231745">Poster</a> Accepted in SC-20 </td>
+  <tr>
+    <td><ul><li><span class="date">[May. 2024]</span></li></ul></td>
+    <td class="explanation"><a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656602">Paper</a> published in ICS-24: Enhanced UGAL routing schemes for dragonfly networks</td>
+  </tr>
+  <tr>
+    <td><ul><li><span class="date">[Apr. 2024]</span></li></ul></td>
+    <td class="explanation">Honored to receive the <a href="">Outstanding Research Assistant Award</a> for 2023-2024 from the Computer Science Department, FSU</td>
+  </tr>
+  <tr>
+    <td><ul><li><span class="date">[Oct. 2020]</span></li></ul></td>
+    <td class="explanation"><a href="https://par.nsf.gov/servlets/purl/10231745">Poster</a> Accepted in SC-20: Achieving the performance of global adaptive routing using local information on dragonfly through deep learning</td>
   </tr>
 </table>
 
