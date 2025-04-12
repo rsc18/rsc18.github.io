@@ -15,7 +15,9 @@ redirect_from:
 
 I'm a PhD student in Computer Science at Florida State University, where my research focuses on high-speed interconnects for HPC and AI/ML workloads. 
 My work explores how software-defined networking (SDN) and local router intelligence can improve routing efficiency and mitigate congestion in large-scale systems.
-My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
+My research interests includes Network Interconnect, Adaptive Routing, Communication Optimization and MPI. 
+
+I am honored to be advised by Professor [Xin Yuan](https://www.cs.fsu.edu/~xyuan). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=MfhWZakAAAAJ&hl=en) for my most recent publications.
 
 Key highlights of my research include:
